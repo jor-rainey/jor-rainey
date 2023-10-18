@@ -1,4 +1,4 @@
-![Header](https://github.com/jor-rainey/ImagesforReadMe/blob/main/github-header-image.png)
+![Header](https://github.com/jor-rainey/ImagesforReadMe/blob/main/github-header-image2.png)
 ---
 ## My Data Portfolio
 Visit my [ Data Analysis Portfolio](https://github.com/jor-rainey/Portfolio_Projects) where I showcase my projects
