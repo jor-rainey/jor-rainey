@@ -8,11 +8,10 @@ Visit my [ Data Analysis Portfolio](https://github.com/jor-rainey/Portfolio_Proj
 - Power BI - Intermediate
 - SQL (PostgreSQL) - Intermediate
 - Tableau - Intermediate
-#### Currently Learning
-- Python
+- Python - Beginner
 
 ## Profile
-Graduated from Swansea University with a degree in Civil Engineering. Spent 9 years working as an Engineer involved in asset management of road bridges. I became more exposed to, and interested in, the potential of increased data usage throughout the business. I subsequently sought more data based projects professionally and am looking to pivot my career to a Data Analyst role. I use this space to showcase projects that I've completed as I learn more skills and tools to play with data.
+Driven and self motivated, I aim to continue to develop my Data Analysis skill set to complement my existing engineering and project management background. Professionally my increasing use of Power BI for dashboard creation, database inquiry, and asset management has spurred me to learn and experiment with other tools. This exploration of such a fascinating field is part of my journey towards a career I can be truly passionate about.
 
 ## Qualifications
 - BEng Civil Engineering
